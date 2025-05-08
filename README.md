@@ -24,7 +24,7 @@ Feel free to explore the source code or visit the live site:
 - Deployed with GitHub Pages
 
 ## 📝 License
-This project is open source and available under the MIT License.
+This project is open source and available under the GPL-3.0 License.
 
 ## 🙌 Acknowledgments
 Thanks to:
