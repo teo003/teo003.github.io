@@ -36,11 +36,14 @@ Feel free to explore the source code or visit the live site:
 
 ---
 
-## 📝 License
-This project is open source and available under the GPL-3.0 License.
-
----
-
 ## 🙌 Acknowledgments
 Thanks to:
 - GitHub Pages
+
+---
+
+## 📝 License
+This project is licensed under the [GNU General Public License v3.0](LICENSE.md)
+Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
+details.
+
